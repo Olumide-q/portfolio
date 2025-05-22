@@ -29,7 +29,7 @@ export default function About() {
 <Image className="rounded-xl w-full"  alt="Logo" src={img} />
 <div className="absolute inset-0 bg-slate-300 bg-opacity-20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
 <div className="head text-black animate-bounce font-extrabold text-[78px] text-center px-4">
-<p>NO MORE ABOUT ME.</p>
+<p>KNOW MORE ABOUT ME.</p>
 </div>
 </div>
 </div>
