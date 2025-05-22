@@ -72,7 +72,6 @@ export default function Nav() {
                         <div className="w-11/12 container mx-auto py-6">
                             <div className="flex flex-col gap-6 font-medium text-[18px]">
                                 <Link 
-                                disabled={isDisabled}
                                     href="#" 
                                     className="hover:text-white transition-colors  border-b border-gray-800 cursor-pointer py-2"
                                     onClick={closeMenubar}
